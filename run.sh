@@ -1,0 +1,1 @@
+java -jar ./target/ing-1.0.0.jar
